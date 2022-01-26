@@ -1,6 +1,3 @@
-my_name = "Brett"
+first_occ = [1,2,3]
 
-for my_letter in range(len(my_name)):
-    print(my_letter)
-
-dummy_num = 22
+my_av = sum(first_occ) / len(first_occ)
